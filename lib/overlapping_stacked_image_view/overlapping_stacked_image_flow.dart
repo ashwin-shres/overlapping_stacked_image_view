@@ -1,0 +1,1 @@
+enum OverlappingStackedImageFlow { leftToRight, rightToLeft }
